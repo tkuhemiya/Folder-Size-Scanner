@@ -15,6 +15,10 @@ A Python script that scans folders and calculates their total size by summing up
    - As a command-line argument.
    - Through the file selection dialog window.
 
+## Example Output
+![image](https://github.com/user-attachments/assets/2be8977b-d8ff-4542-b6c9-528e5569f645)
+![image](https://github.com/user-attachments/assets/c3bdc09a-e6be-4afb-b950-5c5963d9f5b8)
+
 ## How It Works
 - The directory path can be provided via command-line arguments or selected using a GUI file dialog.
 - The program uses `os.walk()` to traverse the directory.
